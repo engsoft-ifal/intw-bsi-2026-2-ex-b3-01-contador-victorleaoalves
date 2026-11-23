@@ -15,3 +15,4 @@ btnZerar.addEventListener("click", () => {
     contador = 0;
     displayTotal.textContent = contador;
 });
+//teste
